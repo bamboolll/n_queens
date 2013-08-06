@@ -1,0 +1,15 @@
+==== Wishlist for 0.4.0 ====
+* Optimize search algorithm
+* Learn about the QtConcurrency classes to increase performance on multicore cpus
+
+* Create a class as wrapper for the getLabelFromInt function
+* Introduce a feature that allows calculating the number of solutions while discarding the solutions themselves
+
+==== Features in progress 0.4.0 ==
+
+
+==== Completed Features 0.4.0 ====
+* Use icons for menubar and introduce a toolbar
+* Introduce QLeds to show whether a solution is found (green), a solution might still
+  be possible (yellow) or no solution possible anymore (red)
+* Save settings: window geometry, dockwidget positions and geometries etc.

@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>COPYING</file>
+        <file>images/about_outline.png</file>
+        <file>images/cross.svg</file>
+        <file>images/about.png</file>
+        <file>images/queen.svg</file>
+        <file>images/queen_black.svg</file>
+        <file>images/queen_white.svg</file>
+        <file>images/edit-clear.png</file>
+        <file>images/document-save-as.png</file>
+        <file>images/edit-find.png</file>
+    </qresource>
+</RCC>
